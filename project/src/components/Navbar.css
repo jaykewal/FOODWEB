@@ -1,0 +1,41 @@
+/* .transparent-navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: transparent;
+  box-shadow: none;
+}
+
+.transparent-navbar .logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #ff6600;
+}
+
+.transparent-navbar .logo span {
+  color: green;
+}
+
+.transparent-navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.transparent-navbar ul li a {
+  text-decoration: none;
+  font-weight: 500;
+  color: white; /* best for transparent navbar over dark images */
+  /* transition: color 0.3s;
+}
+
+.transparent-navbar ul li a:hover {
+  color: #ff6600;
+} */ 
